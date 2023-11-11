@@ -178,7 +178,15 @@ git push
 	- 修改最近一次的commits
 
 - git push -f (force)
-	- 不管衝突，直接覆蓋遠端  
+	- 不管衝突，直接覆蓋遠端 
+
+	git pull
+=================================
+- git pull
+	-將遠端更新到本地端
+
+git clone
+	- git clone url 
 
 	### 繪製表格 Tables
 
